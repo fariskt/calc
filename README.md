@@ -1,1 +1,2 @@
-# calc![calc-image](https://github.com/fariskt/calc/assets/113295885/1937f4a0-8e6e-4f3c-be75-06fb4569024b)
+
+![calc-image](https://github.com/fariskt/calc/assets/113295885/3708439e-127c-4c95-b106-c49caf3e4697)
