@@ -1,2 +1,3 @@
 
-![calc-image](https://github.com/fariskt/calc/assets/113295885/3708439e-127c-4c95-b106-c49caf3e4697)
+
+![Screenshot 2023-11-24 224027](https://github.com/fariskt/calc/assets/113295885/3243bf2b-6532-436d-b77f-3e86b4b5b928)
